@@ -2,5 +2,8 @@
 # other commit
 # 2nd commit
 # 3rd commit
+<<<<<<< HEAD
 # 4th commit
 # 5th commit
+=======
+>>>>>>> dev
